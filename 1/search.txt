@@ -1,0 +1,18 @@
+1- A+ CompTIA (For absolute beginners) 
+https://youtube.com/playlist?list=PLH-n8YK76vIiDdOMRB-ylvns-_8Zl1euV
+
+2- cs50 harvard (Software) 1st Lecture
+https://www.youtube.com/watch?v=DEsY6EcMe5E&list=PLr-qgTm_-YRoKf-cRD2Mvufgzcx4Y7iyR
+
+3- vs code 
+https://code.visualstudio.com/download
+
+4- vs code extensions
+		live server
+		html css support
+		intellisense for css classes
+		prettier
+		
+5- https://www.w3schools.com/html/html_intro.asp
+6- https://www.w3schools.com/html/html_basic.asp
+

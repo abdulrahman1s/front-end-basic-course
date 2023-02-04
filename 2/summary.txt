@@ -1,0 +1,68 @@
+
+lecture 2
+=========
+revision on head and body
+html tags categories
+    1- has specific function and meaning itself
+    2- has meaning itself but can be fully styled
+    3- containers with meaning (Semantic elements)
+    4- containers without meaning (Non semantic elements)
+
+general props of html tags
+    1- typed with small letters
+    2- has initial styling
+    3- has attributes
+    4- can be unique and accessed with other programming languages (with tag name or with attributes => [id, class])
+
+block elements as (<div> - <h1> - <h6> - <br /> - <hr /> - <p>) 
+inline elements as (<span> - <input /> - <button> - <textarea>)
+Semantic vs Non semantic elements
+text styling elements (self study)
+
+
+<button>
+<input> text
+<input> number
+<input> date
+<input> checkbox
+<input> button (self study)
+<textarea>
+<audio>
+<video>
+
+
+example 1
+=========
+make portfolio page with header, main content, about, contact me, footer.
+
+header <header> part
+--------------------
+background color green
+has links redirect me into the same page (home, about, contact me)
+
+home <main> part
+----------------
+background color gold
+major title with (Ahmed Ouda Website)
+has sub title with pref about you
+has paragraph with summary about your career
+has link with your cv and open in another page
+has button with download my cv
+
+about <section> part
+--------------------
+background color transparent
+some info about you and your skills
+
+contact me <section> part
+-------------------------
+background color #d7b5e0
+make <form> to contact me 
+with fields (name, email, message, agree on terms, send button)
+
+footer <footer> part
+--------------------
+background color #aaa
+footer (facebook, twitter, insta, phone number for direct calls, whatsapp, gmail)
+
+

@@ -1,0 +1,24 @@
+lecture 1
+=========
+What is computer?
+What are computer parts?
+How does computer work?
+What is data?
+How is data stored in a computer?
+What are filename extensions?
+
+What is programming?
+How is programming differs from programming languages?
+What are programming fields?
+What is web development field?
+How do we earn money from web development?
+What do we need to work as a Front End Developer (knowledge & soft skills)?
+What are the tools will we use for web development?
+
+What is HTML?
+What are versions of HTML? (self study)
+HTML 5 vs previous version? (self study)
+HTML page parts
+Important parts in <head> section
+<body>
+
